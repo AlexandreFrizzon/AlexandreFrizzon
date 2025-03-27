@@ -4,7 +4,3 @@ Meu nome é Alexandre, Sou um profissional com formação em Informática para I
 
 ## Tecnologias Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreFrizzon&layout=compact&theme=dracula)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlexandreFrizzon&show_icons=true&theme=dracula)](https://github.com/AlexandreFrizzon)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlexandreFrizzon&theme=dracula)

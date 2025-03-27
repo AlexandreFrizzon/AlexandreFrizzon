@@ -20,7 +20,8 @@ Meu nome é Alexandre, Sou um profissional com formação em Informática para I
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
 
 ## DevOps e Cloud
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?&style=flat-square&logo=amazon-aws&logoColor=white)
+![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF4F00.svg?&style=flat-square&logo=amazon-s3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?&style=flat-square&logo=amazon-ec2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%2332496F.svg?&style=flat-square&logo=docker&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-%2389E051.svg?&style=flat-square&logo=gnu-bash&logoColor=black)

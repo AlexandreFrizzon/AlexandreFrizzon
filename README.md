@@ -29,7 +29,6 @@ Meu nome é Alexandre, Sou um profissional com formação em Informática para I
 ## Ferramentas
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?&style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&style=flat-square&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=flat-square&logo=figma&logoColor=white)
 ![Insomnia](https://img.shields.io/badge/Insomnia-%2300bdd6.svg?&style=flat-square&logo=insomnia&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?&style=flat-square&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)

@@ -16,14 +16,12 @@ Meu nome é Alexandre, Sou um profissional com formação em Informática para I
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=flat-square&logo=springboot&logoColor=white)
 ![API REST](https://img.shields.io/badge/API%20REST-%23008080.svg?&style=flat-square&logo=postman&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
 
 ## DevOps e Cloud
 ![AWS S3](https://img.shields.io/badge/AWS%20S3-%23FF4F00.svg?&style=flat-square&logo=amazon-s3&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS%20EC2-%23FF9900.svg?&style=flat-square&logo=amazon-ec2&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?&style=flat-square&logo=docker&logoColor=white)
-![Docker Compose](https://img.shields.io/badge/Docker%20Compose-%2332496F.svg?&style=flat-square&logo=docker&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-%2389E051.svg?&style=flat-square&logo=gnu-bash&logoColor=black)
 
 ## Ferramentas

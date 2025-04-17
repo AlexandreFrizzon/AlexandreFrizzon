@@ -5,13 +5,7 @@ Meu nome é Alexandre, Sou um profissional com formação em Informática para I
 ## Tecnologias Utilizadas
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreFrizzon&layout=compact&theme=dracula)
 
-## Skills Front end
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat-square&logo=react&logoColor=black)
-
-## Skills Back end
+## Skills
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?&style=flat-square&logo=springboot&logoColor=white)
 ![API REST](https://img.shields.io/badge/API%20REST-%23008080.svg?&style=flat-square&logo=postman&logoColor=white)
